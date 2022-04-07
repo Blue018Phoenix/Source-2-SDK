@@ -8,3 +8,7 @@ game/base/cfg/video_tools.txt
 content/core/maps/editor/23940_4488_4aca.dmx
 game/_toolsettings/asset_browser/settings.txt
 game/base/cfg/video_tools.txt
+game/base/cfg/boot.vcfg
+content/core/maps/editor/23940_4488_64c3.dmx
+game/_toolsettings/hammer/settings.txt
+game/base/cfg/boot.vcfg

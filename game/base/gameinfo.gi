@@ -95,7 +95,7 @@
 	
 	Hammer
 	{
-		"fgd"					"halflife2.fgd"	// NOTE: This is relative to the 'game' path.
+		"fgd"					"base.fgd"	// NOTE: This is relative to the 'game' path.
 		"DefaultTextureScale"	"0.250000"
 		"DefaultMinDrawVolumeSize"	"1024.0"
 		"DefaultSolidEntity"	"trigger_multiple"
