@@ -1,3 +1,5 @@
+#NOTE: These files are too big to upload! you can however find the same files in the SteamVR Tours app, shaders_pc_000.vpk is in
+#game folder while the pak files are in the core folder of Steam Tours
 /game/base/shaders_pc_000.vpk
 /game/core/pak01_000.vpk
 /game/core/pak01_001.vpk
