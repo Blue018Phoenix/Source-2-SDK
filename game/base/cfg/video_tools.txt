@@ -2,7 +2,7 @@
 {
 	"Version"		"0"
 	"VendorID"		"4098"
-	"DeviceID"		"5686"
+	"DeviceID"		"29504"
 	"setting.fullscreen"		"0"
 	"setting.coop_fullscreen"		"0"
 	"setting.nowindowborder"		"0"
