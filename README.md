@@ -8,3 +8,4 @@ ANOTHER NOTE: This is extremely barebones! There isnt any demo code or stuff lik
 this for development!
 
 (Make sure you keep any modified files under 100 MB!)
+(To launch, go to "/game/" and then start the file labled "tools.bat"
