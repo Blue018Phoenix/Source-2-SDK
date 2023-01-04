@@ -1,12 +1,8 @@
 # Source 2 SDK
- A simple Source 2 SDK based of off scraps of code here and there.
+A bare-bones version of Source 2, Includes all needed assets to use the editors and such, no missing shaders
 
+WIP: 
 
-NOTE: Some files are too big to upload! Decompress the compressed.7z.001 archive and it should place the required files into the folder
+Latest git push prevented due to VPK not being able to create a multichunk file (as far as I know, using S1 VPK throws errors for base)
 
-ANOTHER NOTE: This is extremely barebones! There isnt any demo code or stuff like that so you will have to make stuff yourself if you are using
-this for development!
-
-(Make sure you keep any modified files under 100 MB!)
-
-(To launch, go to "/game/" and then start the file labled "tools.bat")
+HL2 Functionality (Allowing weapons, and PMs)
